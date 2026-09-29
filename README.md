@@ -9,4 +9,5 @@ o sistema possui produtos de uma loja de informatica cada produto possui informa
 - numero do patrimonio
 
 essas são as rotas para alterações:
+
 get(mostrar), post (criar item), delete (deleta um item) e put (altera propriedades de um item)
