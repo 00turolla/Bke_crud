@@ -12,8 +12,8 @@ essas são as rotas para alterações:
 
 get(mostrar), post (criar item), delete (deleta um item) e put (altera propriedades de um item)
 
-![Teste01](./imagens/chamar.png)
-![Teste02](./imagens/chamarID.png)
-![Teste03](./imagens/editar.png)
-![Teste04](./imagens/postar.png)
+![Teste01](./imagens/postar.png)
+![Teste02](./imagens/chamar.png)
+![Teste03](./imagens/chamarID.png)
+![Teste04](./imagens/editar.png)
 
